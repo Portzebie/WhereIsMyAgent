@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of Table View Buttons
+
+Variant: Table View Buttons-iPhone 6.ipa
+Supported devices: iPhone 6
+App + On Demand Resources size: 2.1 MB compressed, 6.5 MB uncompressed
+App size: 2.1 MB compressed, 6.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
